@@ -51,14 +51,14 @@ export default function AwardApp({ Component, pageProps }) {
       name: "Oy Ver!",
       icon: "fa fa-plus",
       activeIcon: "fa fa-plus",
-      href: "404.js",
+      href: "./pages/404.jsx",
     },
     {
       link: true,
       name: "Partnerler",
       icon: "fal fa-handshake",
       activeIcon: "fa fa-handshake",
-      href: "404.js",
+      href: "./pages/404.jsx",
     }
   ]
 
