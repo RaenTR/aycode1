@@ -1,6 +1,6 @@
 import ErrorPage from '../components/ErrorPage';
 const UnkownPage = () => {
-    return <ErrorPage code={500} message={"Oh. It seems there is a 500 Internal Server Error. Please try again later!"} />
+    return <ErrorPage code={500} message={"Oh. Görünüşe göre 500 Dahili Sunucu Hatası var.Lütfen daha sonra tekrar deneyin!"} />
 }
 
 export default UnkownPage;
