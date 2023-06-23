@@ -20,4 +20,4 @@ export default function Privacy() {
         </div>
             </div>
     );
-};MESAJ OKUYUN, MESAJ GÖNDERİN, BAĞLANTILARI YERLEŞTİRİN, DOSYA EKLEYİN, MESAJ GEÇMİŞİNİ OKUYUN, BAĞLANIN, KONUŞUN, SES AKTİVİTESİNİ KULLANIN, ÖNCELİKLİ HOPARLÖR
+};
