@@ -23,7 +23,7 @@ export default function Partners() {
                                 <h1 className="leading-none text-3xl font-bold text-white">Code Share</h1>        
                                 <div className="flex items-center mt-1">
                                     <p className="font-normal font-sm">
-                                        Share Your Codes, Can You Keep Your Projects Active Forever. World's Largest Website with Discord Interface!
+                                        Kodlarınızı Paylaşın, Projelerinizi Sonsuza Kadar Aktif Tutabilir misiniz? Discord Arayüzüne Sahip Dünyanın En Büyük Web Sitesi!
                                     </p>
                                 </div>     
                             </div>
